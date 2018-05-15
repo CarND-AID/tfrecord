@@ -1,4 +1,5 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bd7e2a1edc424df891900a1e22b2532a)](https://www.codacy.com/app/CarND-AID/tfrecord?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CarND-AID/tfrecord&amp;utm_campaign=Badge_Grade)
 
 # Tensorflow Record API Helpers
 
